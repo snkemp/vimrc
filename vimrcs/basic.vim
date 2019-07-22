@@ -204,6 +204,8 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+set number
+
 
 """"""""""""""""""""""""""""""
 " => Visual mode related
